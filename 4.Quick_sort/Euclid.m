@@ -1,6 +1,6 @@
 clc;clear all; close all;
-
 %Euclidian algo
+
 a = 161;
 b = 28;
 

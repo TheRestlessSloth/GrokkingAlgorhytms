@@ -1,6 +1,8 @@
 function [less,greater] = lessGreater(arr, a)
-%LESSGREATER Summary of this function goes here
-%   Detailed explanation goes here
+%support function. selects all digits in array that lower and higher 
+%than selected element
+
+%todo: from 1 to i-1, from i+1 to end
 less = [];
 greater = [];
     
